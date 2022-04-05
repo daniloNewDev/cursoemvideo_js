@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(123, 123, 196);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
+}
+
+div {
+    padding: 10px;
+}
+
+#check {
+    border-radius: 5px;
+    border: 1px solid gray;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.797);
+    padding: 5px;
+    font: normal 1em Arial;
+    background-color: rgb(79, 79, 197);
+    color: white;
+    transition: 0.3s;
+}
+
+#check:hover {
+    font: normal 1.3em Arial;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-size: 15pt;
+    font-style: italic;
+}
